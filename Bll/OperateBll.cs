@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WebAutoOperator.Bll
+namespace WebAssistant.Bll
 {
     public class OperateBll
     {

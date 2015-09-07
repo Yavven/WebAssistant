@@ -1,0 +1,5 @@
+D:\Projects\WebAssistant\bin\Debug\WebAssistant.dll
+D:\Projects\WebAssistant\bin\Debug\WebAssistant.pdb
+D:\Projects\WebAssistant\obj\Debug\WebAssistant.csprojResolveAssemblyReference.cache
+D:\Projects\WebAssistant\obj\Debug\WebAssistant.dll
+D:\Projects\WebAssistant\obj\Debug\WebAssistant.pdb

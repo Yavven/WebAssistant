@@ -7,8 +7,8 @@
     <ProjectGuid>{7F002114-BCF3-4ECC-ACAC-A19B3999F50B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebAutoOperator</RootNamespace>
-    <AssemblyName>WebAutoOperator</AssemblyName>
+    <RootNamespace>WebAssistant</RootNamespace>
+    <AssemblyName>WebAssistant</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
